@@ -52,7 +52,7 @@ At the end of the run, the score will be displayed (if the database is configure
 ## How to Run
 
 1. Clone the repository.
-2. Open the project in Unity (version XX.XX or later).
+2. Open the project in Unity (version 2021.3.16 or later).
 3. Set up MySQL database using the included SQL script.
 4. Compile and run the game directly from Unity.
 
@@ -112,6 +112,6 @@ Al final se reflejará la puntuación obtenida (si se configura la base de datos
 ## Cómo Ejecutar
 
 1. Clona el repositorio.
-2. Abre el proyecto en Unity (versión XX.XX o posterior).
+2. Abre el proyecto en Unity (versión 2021.3.16 o posterior).
 3. Configura la base de datos MySQL utilizando el script SQL incluido.
 4. Compila y ejecuta el juego directamente desde Unity.
